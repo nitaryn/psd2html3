@@ -1,0 +1,18 @@
+.first{
+    background-image: url( h_img.jpg);
+    background-size: cover;
+    height: 70%;
+}
+
+
+.logo{
+    width: 20%;
+    text-align: center;
+}
+.first p{
+    color: white;
+
+    text-align: center;
+    margin-bottom: 20%;
+
+}
