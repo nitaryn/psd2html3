@@ -1,0 +1,10 @@
+
+.main {
+    text-align: center;
+    background: url(css/h_img.jpg);
+    height: 700px;
+    background: cover;
+}
+.logo{
+    width: 20px;
+}
