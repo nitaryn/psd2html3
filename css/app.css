@@ -1,0 +1,15 @@
+.first{
+    background-image: url( h_img.jpg);
+    background-size: cover;
+    height: 70%;
+}
+
+
+.logo{
+    width: 20%;
+}
+.first p{
+    color: white;
+    margin-top: 10%;
+
+}
