@@ -36,4 +36,13 @@ height: 700px;
 color: whitesmoke;
     }
 
+/******************SERVICES*******************/
+.services {
+background-image: url(css/s_image.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+padding: 4% ;
+color: whitesmoke;
+}
+
 
